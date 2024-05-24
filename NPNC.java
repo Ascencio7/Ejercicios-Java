@@ -10,7 +10,7 @@ public class NPNC {
         num = entrada.nextDouble();
 
         if (num > 0) {
-            System.out.println("\nEl número es positivo.");
+            System.out.println("\nEl número es positivo");
             System.out.println("Fin del programa.\n");
         } else if (num < 0) {
             System.out.println("\nEl número es negativo.");
