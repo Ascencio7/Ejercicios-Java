@@ -1,3 +1,8 @@
+/*
+ * Escribir un programa que solicte al usuario su edad y determine si es
+ * mayor de edad o no.
+ */
+
 import java.util.Scanner;
 
 public class Edad_Menor_Mayor {
