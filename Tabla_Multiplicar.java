@@ -1,3 +1,8 @@
+/*
+ * Escribir un programa que solicite al usuario un número y muestre la tabla
+ * de multiplicar correspondiente.
+ */
+
 import java.util.Scanner;
 
 public class Tabla_Multiplicar {
