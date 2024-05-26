@@ -1,3 +1,8 @@
+/*
+ * Escribir un programa que solicite al usuario un número y determine
+ * si es par o impar.
+ */
+
 import java.util.Scanner;
 
 public class Numero_Par_Impar {
