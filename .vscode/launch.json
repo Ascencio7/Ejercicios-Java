@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Aprobado_Reprobado",
+            "request": "launch",
+            "mainClass": "Aprobado_Reprobado",
+            "projectName": "Ejercicios-Java_d9e98841"
+        },
+        {
+            "type": "java",
+            "name": "Edad_Menor_Mayor",
+            "request": "launch",
+            "mainClass": "Edad_Menor_Mayor",
+            "projectName": "Ejercicios-Java_d9e98841"
+        },
+        {
+            "type": "java",
+            "name": "NPNC",
+            "request": "launch",
+            "mainClass": "NPNC",
+            "projectName": "Ejercicios-Java_d9e98841"
+        },
+        {
+            "type": "java",
+            "name": "Numero_Par_Impar",
+            "request": "launch",
+            "mainClass": "Numero_Par_Impar",
+            "projectName": "Ejercicios-Java_d9e98841"
+        },
+        {
+            "type": "java",
+            "name": "Tabla_Multiplicar",
+            "request": "launch",
+            "mainClass": "Tabla_Multiplicar",
+            "projectName": "Ejercicios-Java_d9e98841"
+        },
+        {
+            "type": "java",
+            "name": "Vocal_Letra",
+            "request": "launch",
+            "mainClass": "Vocal_Letra",
+            "projectName": "Ejercicios-Java_d9e98841"
+        }
+    ]
+}
