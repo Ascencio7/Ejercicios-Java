@@ -1,3 +1,8 @@
+/*
+ * Escribir un programa que solicite un número y determine si es
+ * positivo, negativo o 0.
+ */
+
 import java.util.Scanner;
 
 public class NPNC {
