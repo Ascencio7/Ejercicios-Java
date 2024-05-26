@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumaPares",
+            "request": "launch",
+            "mainClass": "SumaPares",
+            "projectName": "Ejercicios-Java_d9e98841"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
