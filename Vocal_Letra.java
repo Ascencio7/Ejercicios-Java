@@ -8,7 +8,7 @@ public class Vocal_Letra {
 
         String letra;
 
-        System.out.print("\nDigite la letra: ");
+        System.out.print("\nDigite la letra a verificar: ");
         letra = entrada.nextLine();
 
         System.out.println(esVocal(letra));
