@@ -1,3 +1,8 @@
+/*
+ * Escribir un programa que solicite al usuario una letra y determine
+ * si es una vocal o no.
+ */
+
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
