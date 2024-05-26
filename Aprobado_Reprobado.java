@@ -1,3 +1,8 @@
+/*
+ * Escribir un programa que solicite al usuario una calificación y determine si aprobó o 
+ * reprobó, considerando que la nota mayor es 7 para pasar y menor de 7 para reprobar.
+ */
+
 import java.util.Scanner;
 
 public class Aprobado_Reprobado {
