@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumaDigitos",
+            "request": "launch",
+            "mainClass": "SumaDigitos",
+            "projectName": "Ejercicios-Java_f2d6dc35"
+        },
+        {
+            "type": "java",
             "name": "SepararLetras",
             "request": "launch",
             "mainClass": "SepararLetras",
