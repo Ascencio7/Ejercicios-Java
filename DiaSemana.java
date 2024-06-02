@@ -39,7 +39,7 @@ public class DiaSemana {
                 dia = "Domingo";
                 break;
             default:
-                dia = "Número inválido";
+                dia = "Eror: Número inválido.";
                 break;
         }
 
