@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class DiaSemana {
+public class DiasSemana {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
