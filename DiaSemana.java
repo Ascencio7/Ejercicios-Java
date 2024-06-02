@@ -9,39 +9,41 @@ public class DiaSemana {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
-        int dia = 0;
+        int num = 0;
+        String dia;
 
         // Solicitamos el día
         System.out.print("\nIngresa un número entre 1 a 7: ");
-        dia = entrada.nextInt();
+        num = entrada.nextInt();
 
-        switch (dia) {
+        switch (num) {
             case 1:
-                System.out.println("\nLunes");
+                dia = "Lunes";
                 break;
             case 2:
-                System.out.println("\nMartes");
+                dia  = "Martes";
                 break;
             case 3:
-                System.out.println("\nMiércoles");
+                dia = "Miércoles";
                 break;
             case 4:
-                System.out.println("\nJueves");
+                dia = "Jueves";
                 break;
             case 5:
-                System.out.println("\nViernes.");
+                dia = "Vierner";
                 break;
             case 6:
-                System.out.println("Sábado.");
+                dia = "Sábado";
                 break;
             case 7:
-                System.out.println("\nDomingo");
+                dia = "Domingo";
                 break;
             default:
-                System.out.println("\nNúmero inválido.");
+                dia = "Número inválido";
                 break;
         }
 
+        System.out.println("\nEl día correspondiente de " + num + " es: " + dia);
         System.out.println("Fin del programa.\n");
 
         entrada.close();
