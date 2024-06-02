@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiaSemana",
+            "request": "launch",
+            "mainClass": "DiaSemana",
+            "projectName": "Ejercicios-Java_f2d6dc35"
+        },
+        {
+            "type": "java",
             "name": "SumaNumNaturales",
             "request": "launch",
             "mainClass": "SumaNumNaturales",
