@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TablaMulti",
+            "request": "launch",
+            "mainClass": "TablaMulti",
+            "projectName": "Ejercicios-Java_f2d6dc35"
+        },
+        {
+            "type": "java",
             "name": "ContarVocales",
             "request": "launch",
             "mainClass": "ContarVocales",
