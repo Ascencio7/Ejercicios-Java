@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumaNumNaturales",
+            "request": "launch",
+            "mainClass": "SumaNumNaturales",
+            "projectName": "Ejercicios-Java_f2d6dc35"
+        },
+        {
+            "type": "java",
             "name": "SeperarLetrasFOR",
             "request": "launch",
             "mainClass": "SeperarLetrasFOR",
